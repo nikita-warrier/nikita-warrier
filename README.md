@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## hello, i'm nikita!
+### 🌸 computer science undergraduate student at the university of washington
 <!--
 **nikita-warrier/nikita-warrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
