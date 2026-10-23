@@ -2,4 +2,4 @@
 
 • computer science undergraduate student at the university of washington \
 • interested in the intersection of computer science & marketing \
-• currently building Bottom Line while learning more about web development & product design
+• currently learning more about web development & product design
